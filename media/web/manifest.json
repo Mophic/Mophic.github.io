@@ -1,0 +1,225 @@
+{
+  "imageProjects": [
+    {
+      "project": "背景",
+      "images": [
+        "/media/web/image-0-0.webp",
+        "/media/web/image-0-1.webp",
+        "/media/web/image-0-2.webp",
+        "/media/web/image-0-3.webp",
+        "/media/web/image-0-4.webp",
+        "/media/web/image-0-5.webp"
+      ],
+      "poster": "/media/web/image-0-thumb.webp"
+    },
+    {
+      "project": "便携式卫星",
+      "images": [
+        "/media/web/image-1-0.webp",
+        "/media/web/image-1-1.webp",
+        "/media/web/image-1-2.webp"
+      ],
+      "poster": "/media/web/image-1-thumb.webp"
+    },
+    {
+      "project": "补销机器人",
+      "images": [
+        "/media/web/image-2-0.webp",
+        "/media/web/image-2-1.webp",
+        "/media/web/image-2-2.webp",
+        "/media/web/image-2-3.webp"
+      ],
+      "poster": "/media/web/image-2-thumb.webp"
+    },
+    {
+      "project": "大厂风格",
+      "images": [
+        "/media/web/image-3-0.webp",
+        "/media/web/image-3-1.webp"
+      ],
+      "poster": "/media/web/image-3-thumb.webp"
+    },
+    {
+      "project": "风景",
+      "images": [
+        "/media/web/image-4-0.webp",
+        "/media/web/image-4-1.webp",
+        "/media/web/image-4-2.webp",
+        "/media/web/image-4-3.webp",
+        "/media/web/image-4-4.webp",
+        "/media/web/image-4-5.webp",
+        "/media/web/image-4-6.webp",
+        "/media/web/image-4-7.webp",
+        "/media/web/image-4-8.webp"
+      ],
+      "poster": "/media/web/image-4-thumb.webp"
+    },
+    {
+      "project": "科技感武器",
+      "images": [
+        "/media/web/image-5-0.webp",
+        "/media/web/image-5-1.webp",
+        "/media/web/image-5-2.webp"
+      ],
+      "poster": "/media/web/image-5-thumb.webp"
+    },
+    {
+      "project": "亮调产品",
+      "images": [
+        "/media/web/image-6-0.webp"
+      ],
+      "poster": "/media/web/image-6-thumb.webp"
+    },
+    {
+      "project": "零件",
+      "images": [
+        "/media/web/image-7-0.webp",
+        "/media/web/image-7-1.webp",
+        "/media/web/image-7-2.webp",
+        "/media/web/image-7-3.webp",
+        "/media/web/image-7-4.webp",
+        "/media/web/image-7-5.webp",
+        "/media/web/image-7-6.webp",
+        "/media/web/image-7-7.webp",
+        "/media/web/image-7-8.webp",
+        "/media/web/image-7-9.webp",
+        "/media/web/image-7-10.webp",
+        "/media/web/image-7-11.webp",
+        "/media/web/image-7-12.webp"
+      ],
+      "poster": "/media/web/image-7-thumb.webp"
+    },
+    {
+      "project": "仕达思",
+      "images": [
+        "/media/web/image-8-0.webp",
+        "/media/web/image-8-1.webp",
+        "/media/web/image-8-2.webp",
+        "/media/web/image-8-3.webp",
+        "/media/web/image-8-4.webp",
+        "/media/web/image-8-5.webp",
+        "/media/web/image-8-6.webp",
+        "/media/web/image-8-7.webp",
+        "/media/web/image-8-8.webp",
+        "/media/web/image-8-9.webp",
+        "/media/web/image-8-10.webp",
+        "/media/web/image-8-11.webp"
+      ],
+      "poster": "/media/web/image-8-thumb.webp"
+    },
+    {
+      "project": "鞋子渲染",
+      "images": [
+        "/media/web/image-9-0.webp",
+        "/media/web/image-9-1.webp",
+        "/media/web/image-9-2.webp"
+      ],
+      "poster": "/media/web/image-9-thumb.webp"
+    },
+    {
+      "project": "应急救援车",
+      "images": [
+        "/media/web/image-10-0.webp",
+        "/media/web/image-10-1.webp",
+        "/media/web/image-10-2.webp",
+        "/media/web/image-10-3.webp",
+        "/media/web/image-10-4.webp",
+        "/media/web/image-10-5.webp",
+        "/media/web/image-10-6.webp",
+        "/media/web/image-10-7.webp",
+        "/media/web/image-10-8.webp",
+        "/media/web/image-10-9.webp",
+        "/media/web/image-10-10.webp",
+        "/media/web/image-10-11.webp",
+        "/media/web/image-10-12.webp",
+        "/media/web/image-10-13.webp",
+        "/media/web/image-10-14.webp",
+        "/media/web/image-10-15.webp",
+        "/media/web/image-10-16.webp",
+        "/media/web/image-10-17.webp",
+        "/media/web/image-10-18.webp",
+        "/media/web/image-10-19.webp",
+        "/media/web/image-10-20.webp",
+        "/media/web/image-10-21.webp",
+        "/media/web/image-10-22.webp"
+      ],
+      "poster": "/media/web/image-10-thumb.webp"
+    },
+    {
+      "project": "XBOX手柄渲染",
+      "images": [
+        "/media/web/image-11-0.webp",
+        "/media/web/image-11-1.webp",
+        "/media/web/image-11-2.webp"
+      ],
+      "poster": "/media/web/image-11-thumb.webp"
+    }
+  ],
+  "videoWorks": [
+    {
+      "title": "双虎三维",
+      "src": "/media/web/video-0.mp4",
+      "poster": "/media/web/video-0.webp"
+    },
+    {
+      "title": "教师节",
+      "src": "/media/web/video-1.mp4",
+      "poster": "/media/web/video-1.webp"
+    },
+    {
+      "title": "核磁平扫0000",
+      "src": "/media/web/video-2.mp4",
+      "poster": "/media/web/video-2.webp"
+    },
+    {
+      "title": "科技树4K",
+      "src": "/media/web/video-3.mp4?v=832c4fcea63e",
+      "poster": "/media/web/video-3.webp"
+    },
+    {
+      "title": "仕达思",
+      "src": "/media/web/video-4.mp4",
+      "poster": "/media/web/video-4.webp"
+    },
+    {
+      "title": "总合成 2",
+      "src": "/media/web/video-5.mp4",
+      "poster": "/media/web/video-5.webp"
+    },
+    {
+      "title": "分解动画3",
+      "src": "/media/web/video-6.mp4",
+      "poster": "/media/web/video-6.webp"
+    },
+    {
+      "title": "精粹水",
+      "src": "/media/web/video-7.mp4",
+      "poster": "/media/web/video-7.webp"
+    },
+    {
+      "title": "细胞",
+      "src": "/media/web/video-8.mp4",
+      "poster": "/media/web/video-8.webp"
+    },
+    {
+      "title": "香水",
+      "src": "/media/web/video-9.mp4",
+      "poster": "/media/web/video-9.webp"
+    },
+    {
+      "title": "自然堂",
+      "src": "/media/web/video-10.mp4",
+      "poster": "/media/web/video-10.webp"
+    },
+    {
+      "title": "render",
+      "src": "/media/web/video-11.mp4",
+      "poster": "/media/web/video-11.webp"
+    }
+  ],
+  "hero": {
+    "title": "分解动画3",
+    "src": "/media/web/video-6.mp4",
+    "poster": "/media/web/video-6.webp"
+  }
+}
